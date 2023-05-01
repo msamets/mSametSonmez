@@ -14,7 +14,7 @@
 
 - Currently using React and TypeScript in the front-end
 
-- Currently learning operations part of DevOps and improve code quality by Self
+- Currently learning operations part of DevOps and improving code quality by Self
 
 <h1> 🛠Tech Stack</h1>
 <p>
